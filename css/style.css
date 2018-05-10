@@ -214,7 +214,7 @@ body{
 }
 
 .back{
-	z-index: 2;
+	transform: rotateY(0deg);
 }
 
 .front-img,
