@@ -213,10 +213,6 @@ body{
 	transform: rotateY(180deg);
 }
 
-.back{
-	z-index: 0;
-}
-
 .front-img,
 .back-img{
 	width: 130px;
